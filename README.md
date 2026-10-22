@@ -1,3 +1,3 @@
 
-
- <img width="1199" height="771" alt="image" src="https://github.com/user-attachments/assets/d7725846-0b39-48e8-b866-94c7e1edb8b2" />
+im lazy
+<img width="1080" height="907" alt="image" src="https://github.com/user-attachments/assets/ddfaf281-0c23-4628-bae2-b5f4b43fa5b3" />
